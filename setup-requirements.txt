@@ -5,4 +5,4 @@ jax==0.4.24
 jaxlib==0.4.24
 einops==0.6.1
 flas==0.8.1
-numpy==1.26.3
+numpy==1.26.4
